@@ -96,10 +96,8 @@ img {
  .row img {
     /* per centrare orizzontalmente */
     display: block;
-    margin-right: auto;
-    margin-left: auto;
-    width:60%;
-    height:auto;
+    margin: auto;
+    height:100px;
   }
   
   #lezioni {
@@ -151,9 +149,8 @@ img {
   #why .row img {
     background-color: #428bca;
     border-radius: 50%;
-    padding: 30px;
-    width:60%;
-    height: auto;
+    padding:30px;
+    height: 100px;
   }
   
   /* COMMON */
